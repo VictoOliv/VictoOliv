@@ -1,7 +1,7 @@
 ## Oi, eu sou o Victor Oliveira 👋
 <div>
   <a hrerf="https://github.com/VictoOliv">
-  <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=VictoOliv&show_icons=true&theme=dark">  
+  <img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=VictoOliv&show_icons=true&theme=chartreuse-dark">  
 </div>
 <!--
 **VictoOliv/VictoOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
